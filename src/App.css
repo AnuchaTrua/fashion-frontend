@@ -204,8 +204,6 @@ tbody tr:hover {
   color: #0f766e;
 }
 
-/* ... (ส่วนเดิมของ App.css ที่ส่งไปก่อนหน้านี้) ... */
-
 /* ====== ฟอร์ม ====== */
 
 .form-grid {
@@ -264,4 +262,3 @@ tbody tr:hover {
   margin: 0 0 0.4rem;
   font-size: 0.95rem;
 }
-
